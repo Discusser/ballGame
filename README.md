@@ -1,1 +1,1 @@
-https://discusser.github.io/projects/ballgame
+https://discusser.github.io/pages/ball-game/
